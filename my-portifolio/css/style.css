@@ -1,0 +1,36 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    max-width: 800px; 
+    margin: 40px auto;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: 2px solid;
+
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+}
+
+hr {
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    align-self: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
